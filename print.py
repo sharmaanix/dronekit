@@ -1,0 +1,1 @@
+print "Autopilot Firmware version:"
